@@ -1,0 +1,5 @@
+package rule
+
+import (
+	"testing"
+)
